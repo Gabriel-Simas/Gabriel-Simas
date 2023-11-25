@@ -6,7 +6,13 @@
 
 ## 📚 Sobre Mim
 
-Sou um entusiasta do Desenvolvimento Web, Automação Web, QA, AI, Game Dev e tudo que tenha relação com tecnologia. Atualmente, estudo Análise e Desenvolvimento de Sistemas na UCPEL ([Universidade Católica de Pelotas](https://ucpel.edu.br/)), trabalho na empresa Compass UOL, trata-se de um estágio em um Programa de Bolsas de QA e Automação de Testes com Ruby. Estou sempre em busca de aprender e compartilhar conhecimentos!
+Sou um entusiasta do Desenvolvimento Web, Automação Web, QA, AI, Game Dev e tudo que tenha relação com tecnologia. Atualmente, estudo Análise e Desenvolvimento de Sistemas na UCPEL ([Universidade Católica de Pelotas](https://ucpel.edu.br/)).
+
+Atualmente já conclui o estágio na empresa Compass UOL, trata-se de um Programa de Bolsas de QA e Automação de Testes com Ruby.
+
+No momento estou fazendo o Bootcamp: Potência Tech iFood - Desenvolvimento de Jogos, oferecido pela plataforma Digital Innovation One (DIO).
+
+Vocês podem conferir o meu progresso ao decorrer desse bootcamp [aqui](https://github.com/Gabriel-Simas/bootcamp-potencia-tech-ifood-desenvolvimento-de-jogos).
 
 ## 🛠️ Tecnologias e Ferramentas
 
