@@ -1,74 +1,73 @@
-<!-- Gabriel Simas -->
-# 👋 Olá, eu sou Gabriel Simas
+# 👋 Gabriel Simas
 
-> "Assim como um pintor transforma pinceladas em obras-primas e um músico entrelaça notas em sinfonias, um programador transcende simples linhas de código para criar um espetáculo de lógica e criatividade, onde a programação se revela como a verdadeira arte da era digital."  
-> — Chat GPT
+## 🔹 Especialista em Business Intelligence & Data Analysis
 
-## 📚 Sobre Mim
+Transformando dados em decisões estratégicas
 
-Sou um entusiasta do Desenvolvimento Web, Automação Web, QA, AI, Game Dev e tudo que tenha relação com tecnologia. Atualmente, estudo Análise e Desenvolvimento de Sistemas na UCPEL ([Universidade Católica de Pelotas](https://ucpel.edu.br/)).
+---
 
-Atualmente estou ampliando meus conhecimentos com cursos da plataforma [Danki Code](https://www.danki.code.com.br/), onde estou me aprofundando em áreas como **Desenvolvimento Web**, **Automação de Testes** e **Segurança da Informação**.
+## 📌 Sobre
 
-## 🛠️ Tecnologias e Ferramentas
+Sou profissional focado em **Business Intelligence, Análise de Dados e Automação**.
+Atualmente curso Tecnologia em Análise e Desenvolvimento de Sistemas, aplicando meus conhecimentos na construção de **dashboards estratégicos, modelagem de dados e pipelines ETL**.
 
-Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
+Tenho experiência prática em:
 
-### **Ciência de Dados**
-- **Linguagens de Programação**: Python.
-- **Ferramentas**: Jupyter Notebook.
+* Coleta, limpeza e integração de dados
+* Modelagem de KPIs financeiros (LTV, CAC, ROAS, Margem)
+* Estruturação de dados para tomada de decisão
+* Automação de processos com Python
 
-### **Cybersecurity**
-- **Ferramentas**: Wireshark (noções básicas).
+Meu foco é transformar dados brutos em **insight, previsibilidade e impacto financeiro**.
 
-### **Desenvolvimento Web**
-- **Linguagens de Programação**: JavaScript, PHP.
-- **Ferramentas**: MySQL, Postman, Git, GitHub.
-- **Outras Tecnologias**: HTML, CSS.
+---
 
-### **Automação de Testes e QA**
-- **Linguagens**: Ruby.
-- **Ferramentas**: Selenium, Capybara.
-- **Metodologias**: Test Driven Development (TDD).
+## 🛠️ Stack Principal
 
-## 🌱 Atualmente Estou Aprendendo
+* **Linguagens:** Python, SQL
+* **Análise & Modelagem:** Pandas, NumPy, Data Modeling
+* **Visualização:** Power BI, Matplotlib
+* **ETL & Automação:** Scripts Python, Integração via API
+* **Versionamento:** Git, GitHub
 
-Estou focando em aprimorar minhas habilidades em **Ciência de Dados** e **Cybersecurity**, além de continuar explorando outras áreas como **Desenvolvimento Web** e **Automação de Testes**.
+---
 
-**Ciência de Dados**
-- Linguagens de Programação: **Python**, **R**.
-- Outras Tecnologias: **Pandas**, **NumPy**, **Matplotlib**.
-- Ferramentas: **Jupyter Notebook**, **Google Colab**.
-- Conceitos: **Análise Exploratória de Dados (EDA)**, **Machine Learning**.
+## 📊 Áreas de Atuação
 
-**Cybersecurity**
-- Tecnologias: **Firewall**, **Criptografia**, **Hacking Ético**.
-- Ferramentas: **Wireshark**, **Kali Linux**, **Metasploit**.
-- Conceitos: **Segurança em Redes**, **Teste de Penetração**.
+### Business Intelligence
 
-**Desenvolvimento Web**
-- Linguagens de Programação: **PHP**, **JavaScript**.
-- Outras Tecnologias: **AWS**, **Banco de Dados**.
-- Ferramentas: **MySQL**, **Postman**.
+Dashboards integrados, análise de performance financeira, monitoramento de KPIs estratégicos.
 
-## 💼 Programa de Bolsas
+### Data Analysis & Modeling
 
-Aqui estão alguns dos projetos que eu fiz ao decorrer do Programa de Bolsas da Compass:
+Análise de funil, churn, cohorts, previsão de resultados e estruturação de métricas.
 
-- [PB Sprint 4](https://github.com/Gabriel-Simas/RealityStone_-Gabriel_Roberto-_Compass): Ruby e Versionamento de Código.
-- [PB Sprint 5](https://github.com/Gabriel-Simas/PB_Sprint-5_-Gabriel_Roberto-_Compass): Automação Web com Ruby e Cucumber.
-- [PB Sprint 6](https://github.com/Gabriel-Simas/PB_Sprint-6_-Gabriel_Roberto-_Compass): Projeto Final.
-- [PB Sprint 7](https://github.com/Gabriel-Simas/PB-Sprint-7_-Gabriel-Roberto-_Compass): Análise e Testes de APIs Rest.
+### Automação & Estruturação de Dados
 
-## 📫 Como Entrar em Contato
+Criação de pipelines simples, limpeza rigorosa de dados e validação de consistência.
 
-Sinta-se à vontade para me contatar:
+---
 
-- LinkedIn: [Gabriel-Simas](https://www.linkedin.com/in/gabriel-simas-roberto-da-silva/)
-- Email: gabriel.simas.ti@gmail.com
+## 💼 Experiência
+
+### Compass UOL – Estagiário em QA e Automação de Testes
+
+Jun/2023 – Dez/2023
+
+* Automação de testes com Ruby e Selenium
+* Aplicação de TDD e BDD
+* Trabalho em ambiente ágil
+* Experiência em validação e consistência de dados para e-commerce
+
+---
+
+## 🎓 Formação
+
+Tecnologia em Análise e Desenvolvimento de Sistemas
+6º semestre (em andamento)
+
+---
 
 ## 🎯 Objetivo
 
-Meu objetivo é aprofundar e expandir meus conhecimentos a um ponto em que eu possa servir de referência ou contribuir significativamente em projetos na área.
-
-Obrigado por visitar o meu perfil! 😄
+Construir sistemas de inteligência que conectem dados a decisões estratégicas, com foco em eficiência operacional e crescimento sustentável.
